@@ -16,6 +16,7 @@ class ViewController: UIViewController {
     
     func abc() {
         print("这是个练习哦。。。。。。。")
+        print("。。。。嘿嘿嘿。。。。")
     }
 
 }
